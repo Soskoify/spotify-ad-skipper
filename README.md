@@ -9,7 +9,6 @@ If they would like me to take this project down I will as I used most of their c
   nothing pops up over what you are doing. Toggle it in the app ("Skip ads on a hidden screen").
   If the hidden display can't be created, it falls back to the original behavior automatically.
 - Neater ui
-- The "How It Works" and "Limitations" sections below describe the original (toggle off) behavior.
 
 ## Features
 
@@ -19,4 +18,4 @@ If they would like me to take this project down I will as I used most of their c
 - **Auto-Play**: Sends play intent after relaunch to resume playback
 - **Battery Efficient**: Passive notification listener with zero CPU usage when idle
 - **Privacy Focused**: No data collection, storage, or transmission
-- **Samsung Optimized**: Tested on Samsung One UI 7.0 (and Samsung One UI 8.5 by soskoify)
+- **Samsung Optimized**: Tested on Samsung One UI 7.0 (and Samsung One UI 8.5 + One UI 9 by soskoify)
